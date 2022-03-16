@@ -4,4 +4,4 @@
 *&
 *&---------------------------------------------------------------------*
 REPORT zmy_test_program.
-*** Testprogramm with Commen 1
+*** Testprogramm with Comment 1
